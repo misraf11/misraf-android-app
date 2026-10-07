@@ -40,5 +40,5 @@ jobs:
           eas-version: latest
           token: ${{ secrets.EXPO_TOKEN }}
 
-      - name: Build Android on EAS
-        run: eas build --platform android --profile "$EAS_PROFILE" --non-interactive
+      - name: Start Android build on EAS
+        run: eas build --platform android --profile "$EAS_PROFILE" --non-interactive --no-wait
