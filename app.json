@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "MISRAF Android",
+    "slug": "misraf-android-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.misraf.starter"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_WITH_EAS_PROJECT_ID"
+      }
+    }
+  }
+}
