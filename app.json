@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MISRAF Android",
-    "slug": "misraf-android-app",
+    "slug": "myproject",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
